@@ -1,6 +1,6 @@
 # Project Title
 
-Práctica | Crear un Blockchain con node.js
+Práctica| Mi primera aplicación con NPM
 
 ## Getting Started
 
